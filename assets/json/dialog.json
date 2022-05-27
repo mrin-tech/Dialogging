@@ -2,8 +2,12 @@
 	[
 		{
 			"speaker" : "homer",
-			"dialog" : "Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy.",
+			"dialog" : "This is a dialog test",
 			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "homer",
+			"dialog" : "This donut is 3 months old"
 		},
 		{
 			"speaker" : "homer",
@@ -42,8 +46,9 @@
 			"newSpeaker" : "true"
 		},
 		{	
-			"speaker" : "minerva",
-			"dialog" : "It is for Ulysses that my heart bleeds, when I think of his sufferings in that lonely sea-girt island, far away, poor man, from all his friends."
+			"speaker" : "homer",
+			"dialog" : "It is for Ulysses that my heart bleeds, when I think of his sufferings in that lonely sea-girt island, far away, poor man, from all his friends.",
+			"newSpeaker" : "true"
 		},
 		{	
 			"speaker" : "jove",
